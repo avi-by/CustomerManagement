@@ -1,0 +1,5 @@
+C:\Users\AVI\source\repos\CustomerManagement\BE\bin\Debug\BE.dll
+C:\Users\AVI\source\repos\CustomerManagement\BE\bin\Debug\BE.pdb
+C:\Users\AVI\source\repos\CustomerManagement\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\AVI\source\repos\CustomerManagement\BE\obj\Debug\BE.dll
+C:\Users\AVI\source\repos\CustomerManagement\BE\obj\Debug\BE.pdb
